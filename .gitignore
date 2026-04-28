@@ -10,12 +10,9 @@ build/
 dist/
 
 # Environment
-.env
-.env.local
 .env*.local
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -61,3 +58,4 @@ issues/
 .claude
 
 docs/
+config.bat
